@@ -181,7 +181,7 @@
 	"sharelist_hint":			"TIP",
 	"sharelist_hint_text":		"Folk uden en Wunderlist-konto vil modtage en normal invitationsmail. Du bliver nødt til at dele denne liste igen, når de har registreret sig.",
 	"sharelist_button":			"Send invitation",
-   "shared_delete_success":  "Brugeren blev slettet fra listen",
+    "shared_delete_success":  "Brugeren blev slettet fra listen",
    "shared_delete_title":    "Fjernede bruger fra liste",
    "delete_shared_email":    "Er du sikker på, at du vil slette denne e-mailadresse fra din delte liste?",
    "delete_shared_title":    "Fjern bruger fra deling",
